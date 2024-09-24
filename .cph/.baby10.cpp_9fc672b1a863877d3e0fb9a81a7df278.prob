@@ -1,0 +1,1 @@
+{"name":"Local: baby10","url":"c:\\Users\\Pradhyuman\\Desktop\\ALL\\cp_using_cpp\\baby10.cpp","tests":[{"id":1722970550142,"input":"4\na\naaa\nabb\npassword\n\n\n","output":"5\n6\n36\n263"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradhyuman\\Desktop\\ALL\\cp_using_cpp\\baby10.cpp","group":"local","local":true}
